@@ -2,7 +2,7 @@
 
 
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas
-- ☕ Estudando Java
+- 💻☕ Estudando Java e C# 
 
 ##
 
