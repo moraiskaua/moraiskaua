@@ -1,8 +1,7 @@
 ### Olá! Eu sou o Kauã Morais 👋
 
 
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas.
-- 💻☕ Estudando de tudo, mas com ênfase em React, Typescript e Javascript.
+- 💻☕🎓 Cursando Análise e Desenvolvimento de Sistemas.
 
 <br/>
 
@@ -20,19 +19,19 @@
     <img align="center" height="30" width="40" alt="next-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
     <img align="center" height="30" width="40" alt="react-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
     <img align="center" height="30" width="40" alt="node-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-    <img align="center" height="30" width="40" alt="nest-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+    <img align="center" height="30" width="40" alt="prisma-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
     <img align="center" height="30" width="40" alt="ts-icon"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
     <img align="center" height="30" width="40" alt="js-icon"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-    <img align="center" height="30" width="40" alt="tailwind-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+    <img align="center" height="30" width="40" alt="tailwind-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
     <img align="center" height="30" width="40" alt="postgres-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+    <img align="center" height="30" width="40" alt="mongo-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg">
     <img align="center" height="30" width="40" alt="jest-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-    <img align="center" height="30" width="40" alt="java-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
    </div>
 </div>
 
 <div align="center">
     <h1 align="center" style="margin-top: 15px">Contato:</h1>
     <a href="https://www.linkedin.com/in/kauamorais03/" target="_blank"> <img align="center" height="30" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    <a href="mailto:moraiskaua03@gmail.com/" target="_blank"> <img align="center" height="30" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <a href="mailto:moraiskaua.dev@gmail.com/" target="_blank"> <img align="center" height="30" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     <a href="https://www.instagram.com/_moraisx/" target="_blank"> <img align="center" height="30" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </div>
