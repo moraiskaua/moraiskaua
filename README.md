@@ -17,15 +17,16 @@
     <img align="left" height="250" alt="coding-time" src="./code.gif">
     <h1 align="center">Tecnologias <3</h1>
     <img align="center" height="30" width="40" alt="next-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-    <img align="center" height="30" width="40" alt="react-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+    <img align="center" height="30" width="40" alt="react-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     <img align="center" height="30" width="40" alt="node-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    <img align="center" height="30" width="40" alt="nest-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
     <img align="center" height="30" width="40" alt="prisma-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
-    <img align="center" height="30" width="40" alt="ts-icon"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
-    <img align="center" height="30" width="40" alt="js-icon"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+    <img align="center" height="30" width="40" alt="ts-icon"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+    <img align="center" height="30" width="40" alt="js-icon"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
     <img align="center" height="30" width="40" alt="tailwind-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
     <img align="center" height="30" width="40" alt="postgres-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-    <img align="center" height="30" width="40" alt="mongo-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg">
-    <img align="center" height="30" width="40" alt="jest-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+    <img align="center" height="30" width="40" alt="mongo-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+    <img align="center" height="30" width="40" alt="vitest-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" />
    </div>
 </div>
 
