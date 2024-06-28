@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Kauã Morais 👋
 
 
-- 💻☕🎓 Cursando Análise e Desenvolvimento de Sistemas.
+- 💻☕🎓 Formado em Análise e Desenvolvimento de Sistemas.
 
 <br/>
 
