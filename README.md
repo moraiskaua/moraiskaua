@@ -1,37 +1,43 @@
-### Olá! Eu sou o Kauã Morais 👋
-
-
-- 💻☕🎓 Formado em Análise e Desenvolvimento de Sistemas.
-
-<br/>
-
 <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moraiskaua&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moraiskaua&layout=compact&langs_count=7&theme=material-palenight"/>
+  <h1>Olá, eu sou o Kauã Morais! 👋</h1>
+  <h3>🚀 Full-Stack Developer | TypeScript Specialist</h3>
+
+  <br/>
 </div>
 
 <br/>
 
-<div  align="center"> 
-  <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="./code.gif">
-    <h1 align="center">Tecnologias <3</h1>
-    <img align="center" height="30" width="40" alt="next-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-    <img align="center" height="30" width="40" alt="react-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    <img align="center" height="30" width="40" alt="node-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-    <img align="center" height="30" width="40" alt="nest-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
-    <img align="center" height="30" width="40" alt="prisma-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
-    <img align="center" height="30" width="40" alt="ts-icon"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-    <img align="center" height="30" width="40" alt="js-icon"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-    <img align="center" height="30" width="40" alt="tailwind-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-    <img align="center" height="30" width="40" alt="postgres-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-    <img align="center" height="30" width="40" alt="mongo-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
-    <img align="center" height="30" width="40" alt="vitest-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" />
-   </div>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" align="center" valign="middle">
+        <img src="./code.gif" width="100%" style="border-radius: 8px;" alt="Coding Time"/>
+      </td>
+      <td width="50%" align="center" valign="middle">
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img height="165em" src="https://github-readme-stats.vercel.app/api?username=moraiskaua&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true&hide_border=true"/>
+          <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moraiskaua&layout=compact&langs_count=6&theme=material-palenight&hide_border=true"/>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
-<div align="center">
-    <h1 align="center" style="margin-top: 15px">Contato:</h1>
-    <a href="https://www.linkedin.com/in/kauamorais03/" target="_blank"> <img align="center" height="30" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    <a href="mailto:moraiskaua.dev@gmail.com/" target="_blank"> <img align="center" height="30" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<br/>
+
+## 👨‍💻 Sobre Mim
+
+Sou Desenvolvedor Full-Stack especialista no ecossistema TypeScript, com sólida experiência na entrega de soluções ponta a ponta (*end-to-end*). Minha trajetória profissional abrange desde a concepção arquitetural até o deploy final, incluindo a publicação e o gerenciamento do ciclo de vida de dois aplicativos na Play Store. Foco na construção de sistemas performáticos, escaláveis e intuitivos, utilizando tecnologias modernas como React.js, Next.js e Node.js para resolver problemas complexos com eficiência.
+
+---
+
+## 🎓 Formação Acadêmica
+
+<div align="left">
+
+| Grau | Curso | Instituição | Status |
+| :--- | :--- | :--- | :--- |
+| **Pós-Graduação** | **Pós Tech Developer 360** | *FTR* | 🎓 Concluído |
+| **Graduação** | **Análise e Desenvolvimento de Sistemas** | *UniCeub* | 🎓 Concluído |
+
 </div>
